@@ -286,6 +286,3 @@ streamlit run app.py
 
 ---
 
-- Model Development & Training
-- Model Deployment
-- Streamlit Web App Development

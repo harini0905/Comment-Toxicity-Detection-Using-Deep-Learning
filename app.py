@@ -7,7 +7,6 @@ import re
 import nltk
 import matplotlib.pyplot as plt
 
-from wordcloud import WordCloud
 
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
