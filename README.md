@@ -251,7 +251,7 @@ jupyter notebook
 Open:
 
 ```
-Comment_Toxicity_Detection.ipynb
+comment analysis.ipynb
 ```
 
 ---
