@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 import tensorflow as tf
 import pickle
 import re
@@ -461,16 +460,10 @@ Detect whether a user comment is Toxic or Non-Toxic.
 - Pandas
 - NumPy
 - Matplotlib
-- WordCloud
 - Scikit-Learn
 
 ---
 
-## Dataset
-
-Jigsaw Toxic Comment Classification Dataset
-
----
 
 ## Features
 
@@ -481,8 +474,6 @@ Jigsaw Toxic Comment Classification Dataset
 ✅ Dashboard
 
 ✅ Data Visualization
-
-✅ Word Cloud
 
 ✅ Download Prediction Results
 
